@@ -4,9 +4,9 @@ db = client.test
 print(db)
 
 d = {
-    "name" :"sudhanshu",
-    "email" :"Sudhanshu@ineuron.ai",
-    "surname" :"kumar"
+    "name" :"Asmita",
+    "email" :"asmitab253@gmail.com",
+    "surname" :"Kumari"
     }
 db1 = client['mongotest']
 coll = db1['test']
